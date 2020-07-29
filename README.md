@@ -2,6 +2,9 @@
 
 A tool that help developers manage Azure resources more effectively.
 
+## Executable
+You can find a latest build of the tool in `tools/executable` folder. I built it using [PyInstaller](https://www.pyinstaller.org/). Only linux executable for now.
+
 ## Prerequisites
 - Environment variables: AZURE_SUBSCRIPTION_ID, AZURE_TENANT_ID, AZURE_CLIENT_ID, AZURE_CLIENT_SECRET
 
